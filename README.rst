@@ -6,3 +6,13 @@
 #. 你需要一个中文与英文等宽的字体(一个中文顶两个英文)
 
 大概就这么难.
+
+.. table:: Truth table for "not"
+   :widths: auto
+
+   =====  =====
+     A    not A
+   =====  =====
+   False  True
+   True   False
+   =====  =====
