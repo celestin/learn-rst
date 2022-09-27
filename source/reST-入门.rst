@@ -2,7 +2,7 @@
 入门 |a_rst|
 ############
 
-.. table:: Truth table for "not"
+.. table:: UART波特率配置示例
    :widths: auto
 
    =====  =====
