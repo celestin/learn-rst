@@ -2,6 +2,16 @@
 入门 |a_rst|
 ############
 
+.. table:: Truth table for "not"
+   :widths: auto
+
+   =====  =====
+     A    not A
+   =====  =====
+   False  True
+   True   False
+   =====  =====
+
 由于使用 |a_rst| 的情况以撰写文档居多，因此我们以 Sphinx 为入口学习 |a_rst|。
 要开始一个 Sphinx 项目，可以使用其提供的命令行工具 :program:`sphinx-quickstart`
 来创建一个模板项目。
